@@ -1,0 +1,6 @@
+{
+  "name": "ANIMEVERSE - Anime Streaming & Discovery",
+  "description": "Premium anime streaming discovery platform with trending releases, legal streaming hubs, and personalized watchlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
